@@ -1,0 +1,10 @@
+D:\QLKH\QLKH\bin\Debug\QLKH.exe.config
+D:\QLKH\QLKH\bin\Debug\QLKH.exe
+D:\QLKH\QLKH\bin\Debug\QLKH.pdb
+D:\QLKH\QLKH\obj\Debug\QLKH.csproj.AssemblyReference.cache
+D:\QLKH\QLKH\obj\Debug\QLKH.Form1.resources
+D:\QLKH\QLKH\obj\Debug\QLKH.Properties.Resources.resources
+D:\QLKH\QLKH\obj\Debug\QLKH.csproj.GenerateResource.cache
+D:\QLKH\QLKH\obj\Debug\QLKH.csproj.CoreCompileInputs.cache
+D:\QLKH\QLKH\obj\Debug\QLKH.exe
+D:\QLKH\QLKH\obj\Debug\QLKH.pdb
