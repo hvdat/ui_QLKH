@@ -1,4 +1,4 @@
-#### Thông tin chi tiết nhóm:
+## Thông tin chi tiết nhóm:
 
 **Mã nhóm:**  ADB2_11.<br/>
 **Tên nhóm:**  None.<br/>
