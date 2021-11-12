@@ -1,7 +1,7 @@
 #### Thông tin chi tiết nhóm:
 
-**Mã nhóm: ** ADB2_11
-**Tên nhóm: ** None
+**Mã nhóm:**  ADB2_11
+**Tên nhóm:**  None
 **Số lượng:**  4
 
 | MSSV  |Họ tên   |Email   |
